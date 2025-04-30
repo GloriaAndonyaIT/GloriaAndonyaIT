@@ -1,5 +1,64 @@
-# 💫 About Me:
-🛠️ I’m currently working on<br><br>My portfolio website and personal blog<br><br>Projects from ALX and Moringa School<br><br>💡 A passion project I’d love to build someday<br><br>A system that helps small business owners track and manage their businesses efficiently<br><br>🤝 I’m looking to collaborate on<br><br>Open-source, beginner-friendly front-end projects, especially those focused on tech for social good<br><br>🤲 I’m looking for help with<br><br>Writing cleaner code and bug fixing<br><br>🌱 I’m currently learning<br><br>Python and Flask<br><br>✅ I’ve already learned<br><br>HTML, CSS, JavaScript, React.js, and Tailwind CSS<br><br>🎯 Next up, I want to learn<br><br>React (Next.js), SQL, and TypeScript<br><br>💬 Ask me about<br><br>My tech journey, learning at Moringa School, being self-taught, and how I balance coding with life<br><br>🏆 Something I’m proud of<br><br>Building my personal website and passing my school projects<br><br>⚡ Fun fact<br><br>I’ve studied in 8 different primary schools across Kenya, and each move made me stronger and more adaptable<br><br>🔥 What keeps me going<br><br>My friend Victor — his support has been a big motivation in my tech journey<br><br>💬 Favorite quote / motto<br><br>“Your only competition is the person you were yesterday.”<br><br>🎯 2025 Goals<br><br>Graduate from Moringa School and complete the ALX Front-End program<br><br>Build real-world projects and start freelancing<br><br>Grow a personal brand in tech through content creation<br><br>🌍 In 5 years<br><br>I see myself running my own tech company, empowering others, and creating tools that impact lives in Africa<br><br>🚀 Vision<br><br>I want to make tech more accessible, especially for young people and women in Keny
+## 👩🏾‍💻 About Me
+
+### 🛠️ Currently Building:
+- 🌐 My portfolio website & personal blog  
+- 📚 Projects from ALX & Moringa School  
+
+### 💡 Passion Project:
+- 📈 A system to help small business owners track and manage their businesses  
+
+### 🤝 I’m Open To:
+- Collaborating on open-source, beginner-friendly, front-end, or social good projects  
+
+### 🤲 I Need Help With:
+- Writing cleaner code & bug fixing  
+
+---
+
+### 🌱 Learning Journey:
+- 📖 Currently: Python & Flask  
+- ✅ Already learned: HTML, CSS, JavaScript, React.js, Tailwind CSS  
+- 🎯 Next: Next.js, SQL, TypeScript  
+
+---
+
+### 💬 Ask Me About:
+- My tech journey, being self-taught, balancing code & life  
+- Learning at Moringa School  
+
+### 🏆 Proud Moments:
+- Launching my personal site  
+- Passing major school projects  
+
+### ⚡ Fun Fact:
+> I've studied in 8 different primary schools across Kenya — it made me resilient and adaptable!  
+
+---
+
+### 🔥 Motivation:
+- Inspired daily by my friend Victor's belief in me 💖  
+
+### 💬 Quote I Live By:
+> “Your only competition is the person you were yesterday.”  
+
+---
+
+### 🎯 2025 Goals:
+- ✅ Graduate from Moringa School  
+- ✅ Complete the ALX Front-End program  
+- 🌐 Start freelancing & build real-world apps  
+- 🌟 Grow my personal brand in tech  
+
+---
+
+### 🌍 Future Vision:
+- In 5 years, I see myself:
+  - 🚀 Running my own tech company  
+  - 👩🏾‍🏫 Mentoring beginners  
+  - 🌍 Creating tools that empower Africa  
+
+---
+
 
 
 ## 🌐 Socials:
