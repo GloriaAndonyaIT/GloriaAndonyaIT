@@ -2,7 +2,7 @@
 
 ### 🛠️ Currently Building:
 - 🌐 My portfolio website & personal blog  
-- 📚 Projects from ALX & Moringa School  
+- 📚 Projects from Moringa School  
 
 ### 💡 Passion Project:
 - 📈 A system to help small business owners track and manage their businesses  
