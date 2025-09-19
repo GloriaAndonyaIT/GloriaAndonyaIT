@@ -1,61 +1,67 @@
-## 👩🏾‍💻 About Me
+##  About Me
 
-### 🛠️ Currently Building:
-- 🌐 My portfolio website & personal blog  
-- 📚 Projects from Moringa School  
+###  Currently Building:
+-  My tech company
+-  Projects for clients and personal work
 
-### 💡 Passion Project:
-- 📈 A system to help small business owners track and manage their businesses  
+###  Passion Project:
+- Building a website for a children’s home
+-  Creating a platform in the agriculture sector
 
-### 🤝 I’m Open To:
-- Collaborating on open-source, beginner-friendly, front-end, or social good projects  
+###  I’m Open To:
+- Collaborating with other developers and entrepreneurs
+-   Networking with people in tech and business
 
-### 🤲 I Need Help With:
-- Writing cleaner code & bug fixing  
-
----
-
-### 🌱 Learning Journey:
-- 📖 Currently: Python & Flask  
-- ✅ Already learned: HTML, CSS, JavaScript, React.js, Tailwind CSS  
-- 🎯 Next: Next.js, SQL, TypeScript  
+###  I Need Help With:
+- Scaling my projects effectively
+- Writing cleaner, more maintainable code
+- Debugging complex issues faster
 
 ---
 
-### 💬 Ask Me About:
-- My tech journey, being self-taught, balancing code & life  
-- Learning at Moringa School  
+### Learning Journey:
+- Currently exploring: Blockchain and Commerce
+- Already learned: HTML, CSS, JavaScript, React.js, Tailwind CSS, Python & Flask
+-Next: Cloud computing and DevOps basics
 
-### 🏆 Proud Moments:
-- Launching my personal site  
-- Passing major school projects  
+---
 
-### ⚡ Fun Fact:
+###  Ask Me About:
+- My tech journey, from self-taught to Moringa School graduate
+- Balancing coding, school, entrepreneurship, and life
+- Freelancing and working with clients
+- Building resilience through challenges
+
+###  Proud Moments:
+- Graduating from Moringa School
+- Delivering projects for clients
+- Building a strong network in the tech industry
+
+###  Fun Fact:
 > I've studied in 8 different primary schools across Kenya — it made me resilient and adaptable!  
 
 ---
 
-### 🔥 Motivation:
-- Inspired daily by my friend Victor's belief in me 💖  
+###  Motivation:
+- Inspired by my tech and non tech friends and their belief in me
 
 ### 💬 Quote I Live By:
 > “Your only competition is the person you were yesterday.”  
 
 ---
 
-### 🎯 2025 Goals:
-- ✅ Graduate from Moringa School  
-- ✅ Complete the ALX Front-End program  
-- 🌐 Start freelancing & build real-world apps  
-- 🌟 Grow my personal brand in tech  
+###  2025 Goals:
+- Launch my company
+-  Grow my personal brand in tech
+- Secure clients and showcase my skills through real projects
 
 ---
 
 ### 🌍 Future Vision:
 - In 5 years, I see myself:
-  - 🚀 Running my own tech company  
-  - 👩🏾‍🏫 Mentoring beginners  
-  - 🌍 Creating tools that empower Africa  
+  -Running my own tech company
+  -Mentoring beginners in software development
+  -Creating tools that empower Africa
 
 ---
 
